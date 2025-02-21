@@ -1,3 +1,3 @@
-**My 42 Piscine Experience - February 2022 at 42 Wolfsburg
-**
+My 42 Piscine Experience - February 2022 at 42 Wolfsburg
+
 In February 2022, I embarked on an exhilarating journey through the 42 Piscine at 42 Wolfsburg. This intense, four-week coding bootcamp was not just an introduction to programming but also a transformative experience that tested and honed my problem-solving skills and resilience. Immersed in a collaborative and self-directed learning environment, I tackled a series of challenging coding projects and exercises, primarily using the C programming language. Through countless hours of coding, debugging, and collaborating with fellow Pisciners, I developed a strong foundation in algorithmic thinking and computer science principles. The Piscine pushed me out of my comfort zone and taught me the value of perseverance and adaptability. Here are the projects I completed during the Piscine, reflecting the breadth and depth of my experience.
